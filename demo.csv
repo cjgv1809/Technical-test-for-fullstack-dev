@@ -1,0 +1,6 @@
+id,name,age,gender,occupation,email,location,education,salary,hobbies
+1,John Doe,30,Male,Engineer,johndoe@example.com,New York,Master's Degree,75000,Reading, hiking
+2,Jane Smith,25,Female,Doctor,janesmith@example.com,Los Angeles,Doctorate Degree,120000,Traveling, painting
+3,Michael Johnson,40,Male,Teacher,michaeljohnson@example.com,Chicago,Bachelor's Degree,50000,Playing guitar, cooking
+4,Emily Davis,35,Female,Software Developer,emilydavis@example.com,San Francisco,Bachelor's Degree,90000,Photography, yoga
+5,Chris Brown,28,Male,Graphic Designer,chrisbrown@example.com,Miami,Associate Degree,60000,Watching movies, gaming
